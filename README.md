@@ -16,7 +16,14 @@
 ## Week - 3:
 - [Sliding Window: Monday Morning](./10-sliding-window/)
 - [Binary Search: Monday Afternoon](./11-binary-search/)
+- [Binary Search: Wednesday Morning]()
 
+> DIWALI VACATION: 5th - 11th November
+
+## Week - 4:
+***12/11/26***
+- [Two Pointers: Friday Morning](./13-two-pointers/) | [Problem Set](https://codeforces.com/group/DNruwPkRNA/contest/732301)
+- [Binary Search Miscellaneous Problems: Friday Afternoon](./)
 
 
 
